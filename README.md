@@ -57,3 +57,10 @@ Ejecutamos un codigo de python en jupyter asi, rapidito:
 tambien tenemos el comando **len?**, el signo de **?** te dice para que sirve ese comando.
 
 Si querés saber cuanto tiempo tarda en correr tu código podés usar `%time`, `%timeit` y `%%time`.
+
+
+## Recargar modulos o bien, reiniciar el kernel para codigos que estan referenciados.
+
+> %load_ext autoreload
+
+Al usar autoreload el código se va a actualizar automáticamente y la segunda ejecución de funcion_compleja será la modificada.
