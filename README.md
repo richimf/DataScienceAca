@@ -33,5 +33,11 @@ Aceptamos con `Proceed [Y]`
 > conda install <nombre_paquete>
 
 
+## Jupyter
 
+Una vez instalado Jupyter, entramos desde nuestro entorno:
+
+> jupyter notebook
+
+Los notebooks tienen extensión *.ipynb*
 
