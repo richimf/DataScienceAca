@@ -41,3 +41,9 @@ Una vez instalado Jupyter, entramos desde nuestro entorno:
 
 Los notebooks tienen extensión *.ipynb*
 
+Podemos tener un Jupyter en la consola con:
+
+> ipython
+
+
+
