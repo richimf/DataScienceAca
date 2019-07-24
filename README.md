@@ -35,15 +35,25 @@ Aceptamos con `Proceed [Y]`
 
 ## Jupyter
 
+En jupyter podemos tener Markdown o Codigo, entre otros.
+
 Una vez instalado Jupyter, entramos desde nuestro entorno:
 
 > jupyter notebook
 
-Los notebooks tienen extensión *.ipynb*
+Los notebooks tienen extensión **.ipynb**
 
 Podemos tener un Jupyter en la consola con:
 
 > ipython
 
 
+## Comandos mágicos de Jupyter
 
+Ejecutamos un codigo de python en jupyter asi, rapidito:
+
+> %run script.py [enter]
+
+tambien tenemos el comando **len?**, el signo de **?** te dice para que sirve ese comando.
+
+Si querés saber cuanto tiempo tarda en correr tu código podés usar `%time`, `%timeit` y `%%time`.
