@@ -2,9 +2,11 @@
 
 ## Ambientes de trabajo
 
+Creamos un entorno llamado **ds** 
+
 > conda create --name ds
 
-```Proceed [Y]```
+Aceptamos con `Proceed [Y]`
 
 Luego activamos el entorno:
 
