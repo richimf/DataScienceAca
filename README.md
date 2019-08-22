@@ -17,6 +17,7 @@ Para salir del entorno:
 
 > source deactivate
 
+
 Para ver nuestros entornos de conda:
 
 > conda info --envs
@@ -64,3 +65,21 @@ Si querés saber cuanto tiempo tarda en correr tu código podés usar `%time`, `
 > %load_ext autoreload
 
 Al usar autoreload el código se va a actualizar automáticamente y la segunda ejecución de funcion_compleja será la modificada.
+
+
+
+## Problemas al instalar Conda
+
+Si no encuentra el Comando conda, usar:
+
+> export PATH=~/anaconda3/bin:$PATH
+
+Ese path lo agregamos en:
+
+> sudo nano /etc/paths
+
+Como un valor de:
+
+> ~/anaconda3/bin
+
+Guardamos y listo.
