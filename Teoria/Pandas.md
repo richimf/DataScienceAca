@@ -1,5 +1,7 @@
 # Biblioteca Pandas
 
+La biblioteca pandas está construida sobre NumPy, por lo que aprovecha toda su eficiencia. Con ella vas a poder cargar tus datasets fácilmente y realizar el análisis exploratorio. Es una biblioteca indispensable en el workflow de Data Science.
+
 series: es un array con un indice
 
 documentacion:
